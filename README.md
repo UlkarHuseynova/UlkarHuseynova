@@ -1,4 +1,3 @@
-# Hi 👋, I'm Ulkar
 
 ### Data Analyst | Quality Analysis Specialist 📊
 
