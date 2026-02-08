@@ -19,10 +19,5 @@
 ![Excel](https://img.shields.io/badge/Excel-6A5ACD?style=for-the-badge)
 
 ---
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/ulker-huseynova-6b05a0245)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](ulkerhuseynova29)
-
 ---
 
