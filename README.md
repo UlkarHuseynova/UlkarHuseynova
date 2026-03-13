@@ -16,6 +16,7 @@
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-6A5ACD?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=black)
 
 ---
 ---
